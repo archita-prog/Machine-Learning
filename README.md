@@ -10,44 +10,6 @@ Each folder includes:
 
 ---
 
-## 📂 Repository Structure
-## 📁 Repository Structure
-
-📘 Machine-Learning-Repository
-│
-├── 📂 00_Libraries/
-│ ├── Pandas_Basics.ipynb
-│ ├── Numpy_Basics.ipynb
-│ ├── Matplotlib_Basics.ipynb
-│
-├── 📂 01_One_Hot_Encoding/
-│ ├── One_Hot_Encoding_.ipnb
-│
-├── 📂 02_Linear_Regression/
-│ ├── Linear Regression.ipynb
-│
-├── 📂 03_Logistic_Regression/
-│ ├── Logistic Regression_Model.ipynb
-│
-├── 📂 04_Decision_Tree/
-│ ├── Decision Tree.ipynb
-│
-├── 📂 05_Random_Forest/
-│ ├── Random Forest.ipynb
-│
-├── 📂 06_SVM/
-│ ├── Support Vector Machine.ipynb
-│
-├── 📂 07_KNN/
-│ ├── KNN.ipynb
-│
-├── 📂 08_KFold_and_Model_Validation/
-│ ├── K Fold Cross Validation.ipynb
-│
-└── README.md
-
---
-
 ## 🧠 Key Learning Takeaways
 
 ✅ Solid grasp of the **ML workflow**: data → preprocess → train → validate → interpret  
